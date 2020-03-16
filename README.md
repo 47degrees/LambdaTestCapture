@@ -5,7 +5,7 @@
 ### DEPRECATION NOTICE
 The LambdaTestCapture was an extension to LambdaTest with support for capturing test output as an in-memory data structure or as Json to a file
 or log. It was developed in Feb 2017.
-47 Degrees has discontinued the development and maintenance of this extension. The source code is left here for those interesting in studying it.
+47 Degrees has discontinued the development and maintenance of this extension. The source code is left here for those interested in studying it.
 
 ## Introduction
 LambdaTestCapture is an extension to 
