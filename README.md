@@ -1,7 +1,13 @@
-# LambdaTestCapture
-
 [![Maven Central](https://img.shields.io/maven-central/v/com.fortysevendeg/lambda-test-capture_2.12.svg)](https://maven-badges.herokuapp.com/maven-central/com.fortysevendeg/lambda-test-capture_2.12)
 
+# LambdaTestCapture (ABANDONED)
+
+### DEPRECATION NOTICE
+The LambdaTestCapture was an extension to LambdaTest with support for capturing test output as an in-memory data structure or as Json to a file
+or log. It was developed in Feb 2017.
+47 Degrees has discontinued the development and maintenance of this extension. The source code is left here for those interesting in studying it.
+
+## Introduction
 LambdaTestCapture is an extension to 
 [LambdaTest](https://github.com/47deg/LambdaTest). 
 LambdaTest is a functional testing library for Scala.
